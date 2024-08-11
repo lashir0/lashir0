@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lashir0
 - 👀 I’m interested building in roblox
-- 🌱 I’m currently learning lua (coding language) chinese (language)
+- 🌱 I’m currently learning lua (coding language) danish (language)
 - ⚡ Fun fact: im from Kharkiv
 
 <!---
